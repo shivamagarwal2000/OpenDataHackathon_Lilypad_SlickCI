@@ -39,6 +39,7 @@ Each deployed contract address is associated with its respective chain. The inte
 
 ## Getting Started
 
+
 To get started with the project, you can run the following tasks:
 
 ```shell
